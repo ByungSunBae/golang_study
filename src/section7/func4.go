@@ -18,7 +18,7 @@ func multiply2(x, y int) (int, int) {
 // }
 
 func main() {
-	//리턴 갑 변수 사용
+	//리턴 값 변수 사용
 	//예제1
 	a, b := multiply1(10, 5)
 	fmt.Println("ex1 : ", a, b)

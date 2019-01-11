@@ -18,7 +18,6 @@ func main() {
 	fmt.Println("ex1 : ", n1%n2)
 	fmt.Println("ex1 : ", n1<<2)
 	fmt.Println("ex1 : ", n1>>2)
-	fmt.Println("ex1 : ", n1>>2)
 	fmt.Println("ex1 : ", ^n1)
 
 	//예제2

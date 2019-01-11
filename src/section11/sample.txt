@@ -1,0 +1,5 @@
+파일 쓰기 Create : 새 파일 작성 및 파일 열기 Close : 리소스 닫기
+Write, WriteString, WriteAt : 파일 쓰기
+각 운영체제 권한 주의(오류 메세지 확인)
+예외 처리 정말 중요!
+https://golang.org/pkg/os
